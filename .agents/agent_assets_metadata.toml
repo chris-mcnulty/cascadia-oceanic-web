@@ -1,0 +1,44 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "tBdQJ94lGr9c01wrl0Wws"
+uri = "file://attached_assets/hero.png"
+type = "image"
+title = "Hero coastal cliff seascape"
+
+[[generated]]
+id = "ETmT8koKUSI1TyBhZNOgZ"
+uri = "file://attached_assets/gallery-1.png"
+type = "image"
+title = "Foggy sea stacks"
+
+[[generated]]
+id = "Xr015HOz08AEVXXuYL4NH"
+uri = "file://attached_assets/gallery-2.png"
+type = "image"
+title = "Glacier carved fjords"
+
+[[generated]]
+id = "-ihDHSmxB1Y-6vDQEYBBB"
+uri = "file://attached_assets/gallery-3.png"
+type = "image"
+title = "Rocky coast tide pools"
+
+[[generated]]
+id = "-PhEAbF43Z63dyrUqbQyB"
+uri = "file://attached_assets/gallery-4.png"
+type = "image"
+title = "Crashing waves on cliffs"
+
+[[generated]]
+id = "QxLfjVA7iPm_QGYl5tSGQ"
+uri = "file://attached_assets/gallery-5.png"
+type = "image"
+title = "Coastal forest mist"
+
+[[generated]]
+id = "ekdlYjMVG6BxNtB_uYB9N"
+uri = "file://attached_assets/gallery-6.png"
+type = "image"
+title = "Solitary sea stack"
