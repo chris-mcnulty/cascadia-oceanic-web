@@ -29,7 +29,6 @@ export default function Home() {
 
   return (
     <div className="min-h-[100dvh] w-full bg-[#161616] text-[#F2F2F2] selection:bg-[#09757A] selection:text-white">
-
       {/* ── Global Header ── */}
       <header className="fixed top-0 left-0 right-0 z-50 flex flex-col items-center pt-6 pb-4 px-6">
         <p className="font-sans text-center text-[11px] tracking-[0.35em] font-light uppercase text-white/90 mb-3">
@@ -49,7 +48,6 @@ export default function Home() {
           ))}
         </nav>
       </header>
-
       {/* ── Hero ── */}
       <section className="relative h-screen w-full overflow-hidden flex items-center justify-center">
         <motion.div
@@ -102,7 +100,6 @@ export default function Home() {
           </motion.div>
         </div>
       </section>
-
       {/* ── Story Section ── */}
       <section className="py-32 px-6 flex justify-center">
         <motion.div
@@ -128,7 +125,6 @@ export default function Home() {
           <div className="w-px h-12 bg-[#09757A]/40 mx-auto mt-12" />
         </motion.div>
       </section>
-
       {/* ── Featured Collections ── */}
       <section id="collections" className="py-16 px-4 md:px-8 lg:px-12 max-w-[1600px] mx-auto">
         <motion.p
@@ -168,7 +164,6 @@ export default function Home() {
           ))}
         </div>
       </section>
-
       {/* ── Photo Pairs Section ── */}
       <section className="py-32 px-6 bg-[#0f0f0f]">
         <motion.div
@@ -199,7 +194,6 @@ export default function Home() {
           </a>
         </motion.div>
       </section>
-
       {/* ── Store Section ── */}
       <section className="py-32 px-6">
         <motion.div
@@ -229,7 +223,6 @@ export default function Home() {
           </a>
         </motion.div>
       </section>
-
       {/* ── About Section ── */}
       <section id="about" className="py-32 px-6 bg-[#0f0f0f]">
         <motion.div
@@ -263,7 +256,6 @@ export default function Home() {
           <div className="w-px h-12 bg-[#09757A]/40 mx-auto mt-12" />
         </motion.div>
       </section>
-
       {/* ── Partners Section ── */}
       <section id="partners" className="py-32 px-6">
         <motion.div
@@ -312,7 +304,6 @@ export default function Home() {
           </div>
         </motion.div>
       </section>
-
       {/* ── Subscribe Section ── */}
       <section className="py-32 px-6 bg-[#0f0f0f]">
         <motion.div
@@ -342,13 +333,10 @@ export default function Home() {
           <div className="w-px h-12 bg-[#09757A]/40 mx-auto mt-12" />
         </motion.div>
       </section>
-
       {/* ── Footer ── */}
       <footer className="py-14 px-6 border-t border-white/5">
         <div className="max-w-4xl mx-auto flex flex-col items-center gap-5">
-          <p className="font-sans font-light text-[10px] tracking-[0.3em] uppercase text-white/40">
-            © Cascadia Oceanic
-          </p>
+          <p className="font-sans font-light text-[10px] tracking-[0.3em] uppercase text-white/40">© 2026 Cascadia Oceanic LLC</p>
           <div className="flex flex-wrap justify-center gap-x-6 gap-y-2">
             {[
               { label: "Photography by Chris McNulty", href: "https://www.chrismcnulty.net" },
