@@ -1,4 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+/* ── Metro Nova Pro — regular width ── */
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaThin.ttf") format("truetype"); font-weight: 100; font-style: normal; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaThinItalic.ttf") format("truetype"); font-weight: 100; font-style: italic; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaLight.ttf") format("truetype"); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaLightItalic.ttf") format("truetype"); font-weight: 300; font-style: italic; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaRegular.ttf") format("truetype"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaItalic.ttf") format("truetype"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaMedium.ttf") format("truetype"); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaMediumItalic.ttf") format("truetype"); font-weight: 500; font-style: italic; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaBold.ttf") format("truetype"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaBoldItalic.ttf") format("truetype"); font-weight: 700; font-style: italic; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaBlack.ttf") format("truetype"); font-weight: 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaBlackItalic.ttf") format("truetype"); font-weight: 900; font-style: italic; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaExtraBlack.ttf") format("truetype"); font-weight: 950; font-style: normal; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaExtraBlackItalic.ttf") format("truetype"); font-weight: 950; font-style: italic; font-display: swap; }
+
+/* ── Metro Nova Pro — condensed width ── */
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaCondensedThin.ttf") format("truetype"); font-weight: 100; font-style: normal; font-stretch: condensed; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaCondensedThinItalic.ttf") format("truetype"); font-weight: 100; font-style: italic; font-stretch: condensed; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaCondensedLight.ttf") format("truetype"); font-weight: 300; font-style: normal; font-stretch: condensed; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaCondensedLightItalic.ttf") format("truetype"); font-weight: 300; font-style: italic; font-stretch: condensed; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaCondensed.ttf") format("truetype"); font-weight: 400; font-style: normal; font-stretch: condensed; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaCondensedItalic.ttf") format("truetype"); font-weight: 400; font-style: italic; font-stretch: condensed; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaCondensedMedium.ttf") format("truetype"); font-weight: 500; font-style: normal; font-stretch: condensed; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaCondensedMediumItalic.ttf") format("truetype"); font-weight: 500; font-style: italic; font-stretch: condensed; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaCondensedBold.ttf") format("truetype"); font-weight: 700; font-style: normal; font-stretch: condensed; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaCondensedBoldItalic.ttf") format("truetype"); font-weight: 700; font-style: italic; font-stretch: condensed; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaCondensedBlack.ttf") format("truetype"); font-weight: 900; font-style: normal; font-stretch: condensed; font-display: swap; }
+@font-face { font-family: "Metro Nova Pro"; src: url("/fonts/MetroNovaCondensedBlackItalic.ttf") format("truetype"); font-weight: 900; font-style: italic; font-stretch: condensed; font-display: swap; }
+
 @import "tailwindcss";
 @import "tw-animate-css";
 @plugin "@tailwindcss/typography";
@@ -105,8 +134,8 @@
   --chart-4: 0 0% 70%;
   --chart-5: 0 0% 90%;
 
-  --app-font-sans: 'Source Sans Pro', sans-serif;
-  --app-font-serif: 'Source Sans Pro', sans-serif;
+  --app-font-sans: "Metro Nova Pro", sans-serif;
+  --app-font-serif: "Metro Nova Pro", sans-serif;
   --app-font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   --radius: .3rem;
 
