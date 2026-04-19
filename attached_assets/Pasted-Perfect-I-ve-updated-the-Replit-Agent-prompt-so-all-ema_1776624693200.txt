@@ -1,0 +1,233 @@
+Perfect — I’ve updated the **Replit Agent prompt** so **all email sign‑ups route to**  
+👉 **<https://www.chrismcnulty.net/subscribe>** ✅  
+and nowhere else.
+
+Below is the **final, corrected, copy‑paste‑ready prompt** you can give your agent. This version **fully replaces** the earlier one.
+
+***
+
+# ✅ FINAL REPLIT AGENT PROMPT
+
+**Project:** Rebuild Cascadia Oceanic Website  
+**Primary Goal:** Modernize **<https://cascadiaoceanic.com>** and explicitly link it to Synozur and the Chris McNulty creative ecosystem.
+
+***
+
+## ROLE & CONTEXT
+
+You are a senior web engineer and UX writer rebuilding **Cascadia Oceanic**, a fine‑art landscape and seascape photography site.
+
+Cascadia Oceanic is:
+
+*   Art‑first
+*   Story‑driven
+*   Minimal and calm
+*   Focused on gallery‑quality landscape photography
+
+The site must **explicitly link out** to:
+
+*   **Synozur** (partner)
+*   **ChrisMcNulty.net** (creator hub)
+*   **Store** (prints)
+*   **Photo Pairs voting**
+*   **Central email subscription page**
+
+***
+
+## BRAND & TONE
+
+*   Quiet confidence
+*   No tech jargon
+*   No hype
+*   Pacific Northwest mood
+*   Designed like a gallery, not a startup
+
+***
+
+## REQUIRED SITE STRUCTURE
+
+### 1. GLOBAL HEADER
+
+Navigation (exact order):
+
+*   Landscapes
+*   Seascapes
+*   Photo Pairs
+*   Store
+*   About
+*   Partners
+*   Subscribe
+
+**External links:**
+
+*   **Photo Pairs** → <https://voting.chrismcnulty.net>
+*   **Store** → <https://www.chrismcnulty.net/store>
+*   **Subscribe** → <https://www.chrismcnulty.net/subscribe>
+
+***
+
+### 2. HERO SECTION
+
+**Headline:**  
+Story‑first landscape and seascape photography
+
+**Subhead:**  
+Images of the Pacific and Atlantic coasts — and the land in between
+
+**Primary CTAs:**
+
+*   Explore Landscapes
+*   Explore Seascapes
+
+***
+
+### 3. STORY SECTION
+
+**Title:**  
+The story matters as much as the view
+
+**Body:**  
+Cascadia Oceanic is photography built around place, light, and experience.  
+Each image begins with a moment — a long hike, changing weather, or the edge of land and water — and ends as a finished piece designed for the wall.
+
+The work focuses on curated landscape and seascape collections, emphasizing mood, restraint, and a sense of presence rather than isolated images.
+
+***
+
+### 4. FEATURED COLLECTIONS
+
+*   Grid‑based
+*   Image‑forward
+*   Minimal text
+*   Internal gallery navigation
+
+***
+
+### 5. PHOTO PAIRS SECTION
+
+**Title:**  
+Help curate the next exhibition
+
+**Body:**  
+Photo Pairs invites you to help shape future Cascadia Oceanic collections.  
+Vote between two images at a time — as often as you like — and help identify the work that resonates most.
+
+**CTA:**  
+Vote in Photo Pairs
+
+**Link:**  
+<https://voting.chrismcnulty.net>
+
+***
+
+### 6. STORE SECTION
+
+**Title:**  
+Gallery‑quality metal prints
+
+**Body:**  
+Select Cascadia Oceanic images are available as vibrant metal prints chosen for depth, contrast, and durability — especially suited to outdoor and coastal photography.
+
+**CTA:**  
+Visit the Print Store
+
+**Link:**  
+<https://www.chrismcnulty.net/store>
+
+***
+
+### 7. ABOUT SECTION
+
+**Title:**  
+About Cascadia Oceanic
+
+**Body:**  
+Cascadia Oceanic is the photography studio of **Chris McNulty**, focused on story‑first landscapes and exhibition‑quality presentation.
+
+Alongside photography, Chris works across writing, music, and technology, applying a disciplined, intentional approach to how creative work is curated, released, and sustained.
+
+**Link:**  
+Learn more about Chris → <https://www.chrismcnulty.net>
+
+***
+
+### 8. PARTNERS SECTION (EXPLICIT – REQUIRED)
+
+**Title:**  
+Partners
+
+**Body (must be included verbatim or near‑verbatim):**
+
+> Cascadia Oceanic partners with **Synozur**, a strategic advisory and software firm focused on go‑to‑market clarity and execution.
+>
+> Cascadia Oceanic uses **Orbit**, a platform developed by Synozur, to support outbound storytelling across social and email — helping releases and collections remain intentional, consistent, and cohesive over time.
+
+**Links (inline):**
+
+*   Synozur → <https://www.synozur.com>
+*   Orbit → <https://orbit.synozur.com>
+
+***
+
+### 9. EMAIL / SUBSCRIBE SECTION (IMPORTANT)
+
+⚠️ **Do NOT embed a form here**
+
+**Title:**  
+Stay connected
+
+**Body:**  
+Occasional updates with new photography, print releases, and exhibition news.  
+No noise. No algorithms. Just photography.
+
+**CTA:**  
+Subscribe for updates
+
+**Link (required):**  
+👉 **<https://www.chrismcnulty.net/subscribe>**
+
+This link should be used **everywhere email signup is referenced**.
+
+***
+
+### 10. GLOBAL FOOTER (MANDATORY LINKS)
+
+Footer must include **all** of the following:
+
+*   © Cascadia Oceanic
+*   Photography by Chris McNulty → <https://www.chrismcnulty.net>
+*   Print Store → <https://www.chrismcnulty.net/store>
+*   Photo Pairs Voting → <https://voting.chrismcnulty.net>
+*   Partner: Synozur → <https://www.synozur.com>
+*   Powered in part by Orbit → <https://orbit.synozur.com>
+*   Subscribe → <https://www.chrismcnulty.net/subscribe>
+
+***
+
+## TECHNICAL GUIDELINES
+
+*   Responsive, mobile‑first
+*   Image‑forward layouts
+*   Clean semantic HTML
+*   Fast load performance
+*   Accessible typography
+*   No embedded analytics or tracking unless explicitly requested later
+
+***
+
+## FINAL INSTRUCTION
+
+Build this as a **production‑ready website**, not a mockup.
+
+*   Generate final HTML/CSS (or framework equivalent)
+*   Include all copy above
+*   Ensure all external links work
+*   Preserve a gallery‑like, calm aesthetic
+
+***
+
+If you want next, I can:
+
+*   Produce a **shortened “machine‑optimized” version** of this prompt
+*   Write the **matching Synozur “Partner Case Example: Cascadia Oceanic” page**
+*   Align Cascadia Oceanic’s language with your **Wikipedia submission strategy**
