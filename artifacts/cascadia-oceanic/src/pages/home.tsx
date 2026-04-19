@@ -293,6 +293,9 @@ export default function Home() {
               , a strategic advisory and software firm focused on go-to-market clarity and execution.
             </p>
             <p className="font-sans font-light text-white/65 text-base leading-relaxed">
+              Synozur is a woman-owned transformation and software firm founded in 2023 by Michelle Caldwell, built on an empathetic, people-first approach to helping organizations do meaningful work more intentionally. Beyond advisory services, Synozur designs and operates custom software platforms that bring strategy into day-to-day practice. For Cascadia Oceanic, Synozur is not just a partner but a foundational collaborator—building and supporting the Photo Pairs voting experience, along with the underlying inventory and SKU management systems that make collections, releases, and print offerings possible. Their thoughtful, tailored approach allows the creative work to stay focused on story and craft rather than systems and process. Quite simply, Cascadia Oceanic would not operate—or evolve—with the same clarity and confidence without Synozur's ongoing support.
+            </p>
+            <p className="font-sans font-light text-white/65 text-base leading-relaxed">
               Cascadia Oceanic uses{" "}
               <a
                 href="https://orbit.synozur.com"
